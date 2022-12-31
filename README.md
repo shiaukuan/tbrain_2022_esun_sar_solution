@@ -6,6 +6,7 @@
 - Preprocess/: 存放前處理的code
 - Model/: 存放模型相關code
 - requirements.txt: 需要的套件
+- 比賽心得.pdf: 
 
 
 ## 執行流程:
