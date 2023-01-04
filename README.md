@@ -17,9 +17,7 @@ $ conda create --name <env> --file requirements.txt
 或是使用
 ```sh
 docker pull jupyter/scipy-notebook
-```
-再安裝
-```sh
+#再安裝
 conda install mlxtend
 conda install lightgbm
 ```
