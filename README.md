@@ -22,7 +22,7 @@ docker pull jupyter/scipy-notebook
 ```sh
 conda install mlxtend
 conda install lightgbm
-```sh
+```
 
 #### 執行資料前處理生成特徵
 ```sh
